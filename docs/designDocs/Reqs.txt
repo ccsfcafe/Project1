@@ -1,0 +1,19 @@
+Project: CCSF Cafeteria website
+Users: CCSF students and visitors to campus
+
+Segev Malool, Nina Bachvarova, Anton Koval, Kelly Bennett, Edward Gee, Yemane Ogbalidet
+
+Software Requirements:
+
+Must haves
+- Administrator will have the ability to import, update and manage the daily menu, nutritional information, pictures, prices, allergens, etc. of the cafeteria meals. 
+- Users will have access to a mobile friendly website displaying the daily menus.
+- Users will have the ability to look for menu items specific to dietary restrictions.
+- Users will be able to access nutritional information and prices for every item served.
+- Users will be able to select the daily menu for the week.
+
+Nice to have
+- Google Wallet and Apple Pay payment access.
+
+Future/Maybe
+- Create a tab for “Chef’s Table” restaurant on campus.
